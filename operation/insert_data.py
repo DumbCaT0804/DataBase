@@ -1,8 +1,8 @@
 import mysql.connector
 
 mydb = mysql.connector.connect(
-    host="107.173.244.234",
-    port="6666",
+    host="",
+    port="",
     user="root",
     password="my-secret-pw",
     database="onedb"
